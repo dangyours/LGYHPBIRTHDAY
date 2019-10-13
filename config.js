@@ -19,7 +19,7 @@ var config = {
     ],
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "点我",
+        turn_on: "快点我~",
         play: "听点歌吧",
         bannar_coming: "爱心",
         balloons_flying: "好像少点东西",
