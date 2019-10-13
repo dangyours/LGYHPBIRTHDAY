@@ -21,7 +21,7 @@ var config = {
         play: "听点歌吧",
         bannar_coming: "生日快乐",
         balloons_flying: "气球哟",
-        cake_fadein: "不会胖的蛋糕",
+        cake_fadein: "不会变胖的蛋糕",
         light_candle: "点根蜡烛",
         wish_message: "生日快乐",
         story: "最后...",
