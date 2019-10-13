@@ -11,21 +11,19 @@ var config = {
         "和你在一起的日子",
         "天天都好开心呀",
         "今年你也要天天开心哦",
-        "我会一直",
-        "一直",
-        "一直"，
-        "一直守护在你身边的！"，
-        "爱你的 东 ~"	
+        "我会一直、一直、一直",
+        "守护在你身边的！",
+        "爱你的 东~"
     ],
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "快点我~",
-        play: "听点歌吧",
-        bannar_coming: "爱心",
+        turn_on: "开始",
+        play: "音乐",
+        bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
-        cake_fadein: "不会变胖的蛋糕",
-        light_candle: "点根蜡烛",
+        cake_fadein: "蛋糕？",
+        light_candle: "蜡烛？",
         wish_message: "生日快乐",
-        story: "最后...",
+        story: "A MESSAGE FOR YOU",
     }
 };
