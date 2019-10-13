@@ -17,13 +17,13 @@ var config = {
     ],
     // 按钮文字描述, 以下是默认的按钮文字
     desc: {
-        turn_on: "快点我",
+        turn_on: "快点我~",
         play: "听点歌吧",
         bannar_coming: "生日快乐",
         balloons_flying: "气球哟",
         cake_fadein: "不会胖的蛋糕",
         light_candle: "点根蜡烛",
         wish_message: "生日快乐",
-        story: "最后",
+        story: "最后...",
     }
 };
